@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @K0L4N
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning how to make mods in Minecraft
--
+Hi, I'm Shadov, I am a beginner programmer in C++
